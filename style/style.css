@@ -1,0 +1,216 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(22, 22, 22);
+}
+.head{
+    width: auto;
+    height: 60px;
+    background-color: rgba(210, 91, 0, 0.741);
+    text-align: center;
+
+}
+.head a{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 0;
+    
+}
+.content{
+    width: auto;
+    height: 712px;
+}
+.tent h2{
+    color: gray;
+    font-size: 50px;
+    margin-bottom: 0;
+   
+}
+.tent h1{
+    color:rgba(210, 91, 0, 0.741) ;
+    font-size: 70px;
+    margin-top: 0;
+   
+}
+.tent{
+    margin-top: 190px;
+    float: left;
+    margin-left: 120px;
+}
+.tent2{
+    float: right;
+
+
+}
+.tent2 img{
+    width: 500px;
+    height: 500px;
+    margin-right: 200px;
+    margin-top: 100px;
+    border-radius: 40px;
+}
+.content2 h1{
+    text-align: center;
+    font-size: 50px;
+    color:  rgba(210, 91, 0, 0.741);
+}
+.holder{
+    float: left;
+    margin-left: 250px;
+    margin-top: 80px;
+
+}
+.holder img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 25px;
+}
+.holder2 {
+    float: right;
+    margin-right: 400px;
+    margin-top: 80px;
+}
+.p{
+    width: 400px;
+    height: 100px;
+    color: white;
+}
+
+.color{
+    color:  rgba(210, 91, 0, 0.741);
+    margin-bottom: 0;
+}
+.color1{
+    color: white;
+    margin-top: 0;
+}
+.p2{
+    width: 450px;
+    height: 200px;
+    margin-top: 40px;
+}
+.w{
+    float: left;
+
+}
+.p2 p{
+    padding-left: 20px;
+
+}
+.orange{
+    width: 700px;
+    height: 700px;
+    background-color: rgba(210, 91, 0, 0.741);
+    margin-top: 40px;
+    margin-left: 40px;
+    float: left;
+    color: rgba(255, 255, 255, 0.716);
+}
+.orange h1{
+    font-size: 70px;
+    color: rgba(255, 255, 255, 0.716);
+    margin-left: 60px;
+}
+.orange p{
+    font-size: 20px;
+
+}
+.lorem{
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+}
+.white{
+    width: 700px;
+    height: 700px;
+    background-color: rgba(255, 255, 255, 0.716);
+    margin-top: 40px;
+    margin-left: 50px;
+    float: left;
+}
+.white h2{
+    color:  rgba(210, 91, 0, 0.741);
+    font-size: 40px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.input input{
+    margin-left: 60px;
+    width: 200px;
+    height: 30px;
+    margin-top: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 2px;
+    color: rgba(210, 91, 0, 0.741) ;
+    
+}
+.message input{
+    width: 470px;
+    height: 30px;
+    margin-top: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 2px;
+    color: rgba(210, 91, 0, 0.741) ;
+    margin-left: 60px;
+}
+.button button{
+    width: 70px;
+    height: 30px;
+    background-color: rgba(210, 91, 0, 0.741) ;
+    color: white;
+    border: none;
+    margin-left: 265px;
+    margin-top: 50px;
+    
+}
+.white p{
+    color:rgba(210, 91, 0, 0.741) ;
+    margin-left: 60px;
+    font-weight: bold;
+}
+.img h1{
+    color: rgba(210, 91, 0, 0.741) ;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.imgholder img{
+    width: 300px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.hobby h1{
+    color: rgba(210, 91, 0, 0.741) ;
+    text-align: center;
+    font-size: 50px;
+}
+.imgholder2 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 120px;
+}
+footer{
+    background-color: rgba(146, 146, 146, 0.622);
+    text-align: center;
+    height: 50px;
+    padding-top: 12px;
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
